@@ -1,5 +1,16 @@
+Perfume Motion Visualization Example Project
+Motion visualization for Perfume global site ver openFrameWorks.
+perfume-global.com
+
+many thanks for oF and contributed addons.
+
+check this vimeo! => https://vimeo.com/44661016
+
+usage
+
+just compile with of_0071_iOS_release
+
 dependenies:
-of_0071_iOS_release
 ofxBvh
 ofxQCAR
 ofxAssimpModelLoader
